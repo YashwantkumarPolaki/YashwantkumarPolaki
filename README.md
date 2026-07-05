@@ -2,9 +2,9 @@
 
 **Founder, NeuraMorphix | Building Healthcare SaaS with AI | AI & ML @ SRM**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[linkedin.com/in/YOUR-LINKEDI](https://www.linkedin.com/in/yashwant-kumar-polaki-2a1215367/)N)
 [![Instagram](https://img.shields.io/badge/NeuraMorphix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neuramorphix@gmail.com)
 
 📍 Chennai, India (via Visakhapatnam) | 🎓 BTech CSE (AI & ML), SRM KTR, 2024–2028
 
